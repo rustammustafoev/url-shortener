@@ -13,6 +13,7 @@ __pycache__/
 ### Virtualenv ###
 ENV
 venv
+.env
 
 ### System ###
 nohup.out
@@ -20,3 +21,4 @@ nohup.out
 bin/
 lib/
 pyvenv.cfg
+shortener.db
